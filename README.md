@@ -12,5 +12,7 @@
 
 ###**Клонирование репозитория** ```bash git clone https://github.com/MuravKate/PR12_Murav.git
 
-Солнечная система [Солнечная система](https://samaracosmos.ru/ru/events/planety-solnechnoy-sistemy)
+[Солнечная система](https://samaracosmos.ru/ru/events/planety-solnechnoy-sistemy)
+
+`git clone https://github.com/MuravKate/PR12_Murav.git`
 
