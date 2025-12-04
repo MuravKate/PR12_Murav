@@ -9,3 +9,6 @@
 |git      |1.120|норм     |
 |visual st|12.22|плохо    |
 |VS code  |66.01|хорошо   |
+
+###**Клонирование репозитория** ```bash git clone https://github.com/MuravKate/PR12_Murav.git
+
