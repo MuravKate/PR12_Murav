@@ -1,4 +1,4 @@
-# PR12_Murav
+# PR12_MuravevaKate
 ## Муравьева изучение **GIT**
 ### Работа гит в процессе, проходит на *GitHub* изменяем файл ~~GITIGNORE~~ *README*
 
@@ -10,9 +10,10 @@
 |visual st|12.22|плохо    |
 |VS code  |66.01|хорошо   |
 
-###**Клонирование репозитория** ```bash git clone https://github.com/MuravKate/PR12_Murav.git
+###**Клонирование репозитория**
 
 [Солнечная система](https://samaracosmos.ru/ru/events/planety-solnechnoy-sistemy)
 
+###**Клонирование репозитория** 
 `git clone https://github.com/MuravKate/PR12_Murav.git`
 
