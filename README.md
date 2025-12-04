@@ -10,10 +10,9 @@
 |visual st|12.22|плохо    |
 |VS code  |66.01|хорошо   |
 
-###**Клонирование репозитория**
 
 [Солнечная система](https://samaracosmos.ru/ru/events/planety-solnechnoy-sistemy)
 
-###**Клонирование репозитория** 
+
 `git clone https://github.com/MuravKate/PR12_Murav.git`
 
